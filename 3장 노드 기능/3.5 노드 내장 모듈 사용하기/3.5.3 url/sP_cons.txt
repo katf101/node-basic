@@ -1,0 +1,14 @@
+searchParams: URLSearchParams {
+  'page' => '3',
+  'limit' => '10',
+  'category' => 'nodejs',
+  'category' => 'javascript' }
+searchParams.getAll(): [ 'nodejs', 'javascript' ]
+searchParams.get(): 10
+searchParams.has(): true
+searchParams.keys(): URLSearchParams Iterator { 'page', 'limit', 'category', 'category' }  
+searchParams.values(): URLSearchParams Iterator { '3', '10', 'nodejs', 'javascript' }      
+[ 'es3', 'es5' ]
+[ 'es6' ]
+[]
+searchParams.toString(): page=3&limit=10&category=nodejs&category=javascript

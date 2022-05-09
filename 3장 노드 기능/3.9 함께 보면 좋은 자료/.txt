@@ -1,0 +1,9 @@
+• 노드 공식 문서: https://nodejs.org/dist/latest-v14.x/docs/api/
+
+• NODE_OPTIONS: https://nodejs.org/dist/latest-v14.x/docs/api/cli.html#cli_node_options_options
+
+• UV_THREADPOOL_SIZE: https://nodejs.org/dist/latest-v14.x/docs/api/cli.html#cli_uv_threadpool_size_size
+
+• 에러 코드: https://nodejs.org/dist/latest-v14.x/docs/api/errors.html#errors_node_js_error_codes
+
+• uncaughtException: https://nodejs.org/dist/latest-v14.x/docs/api/process.html#process_event_uncaughtexception

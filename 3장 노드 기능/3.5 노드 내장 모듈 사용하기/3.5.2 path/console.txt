@@ -1,0 +1,24 @@
+path.sep: \
+path.delimiter: ;
+------------------------------
+path.dirname(): C:\Code_Box\NodeStudy\3장 노드 기능\3.5 노드 내장 모듈 사용하기\3.5.2 path
+path.extname(): .js
+path.basename(): os.js
+path.basename - extname: os
+------------------------------
+path.parse() {
+  root: 'C:\\',
+  dir: 'C:\\Code_Box\\NodeStudy\\3장 노드 기능\\3.5 노드 내장 모듈 사용하기\\3.5.2 path',  
+  base: 'os.js',
+  ext: '.js',
+  name: 'os'
+}
+path.format(): C:\users\zerocho\path.js
+path.normalize(): C:\users\zerocho\path.js
+------------------------------
+path.isAbsolute(C:\): true
+path.isAbsolute(./home): false
+------------------------------
+path.relative(): ..\..\..
+path.join(): C:\Code_Box\NodeStudy\3장 노드 기능\users\zerocho
+path.resolve(): C:\zerocho

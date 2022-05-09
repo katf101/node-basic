@@ -1,0 +1,131 @@
+운영체제 정보---------------------------------
+os.arch(): x64       
+os.platform(): win32 
+os.type(): Windows_NT
+os.uptime(): 191782
+os.hostname(): DESKTOP-9811EBK
+os.release(): 10.0.19044
+경로------------------------------------------
+os.homedir(): C:\Users\vawav
+os.tmpdir(): C:\Users\vawav\AppData\Local\Temp
+cpu 정보--------------------------------------
+os.cpus(): [
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 8566062,
+      nice: 0,
+      sys: 4287468,
+      idle: 112358421,
+      irq: 1404921
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 9339671,
+      nice: 0,
+      sys: 1728312,
+      idle: 114143968,
+      irq: 52562
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 11414484,
+      nice: 0,
+      sys: 1891234,
+      idle: 111906093,
+      irq: 24546
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 8193578,
+      nice: 0,
+      sys: 1375203,
+      idle: 115643031,
+      irq: 20312
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 6117781,
+      nice: 0,
+      sys: 1577203,
+      idle: 117516828,
+      irq: 24984
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 997953, nice: 0, sys: 125000, idle: 124088859, irq: 5375 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 2136484,
+      nice: 0,
+      sys: 481140,
+      idle: 122594187,
+      irq: 11984
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 687421, nice: 0, sys: 74562, idle: 124449828, irq: 4484 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 3521328,
+      nice: 0,
+      sys: 959000,
+      idle: 120731484,
+      irq: 77140
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 769312, nice: 0, sys: 129000, idle: 124313500, irq: 33593 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 875828,
+      nice: 0,
+      sys: 1195703,
+      idle: 123140281,
+      irq: 54375
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 914000,
+      nice: 0,
+      sys: 1201734,
+      idle: 123096078,
+      irq: 95484
+    }
+  }
+]
+os.cpus().length: 12
+메모리 정보-----------------------------------
+os.freemem(): 8930783232
+os.totalmem(): 17090887680
